@@ -1,11 +1,11 @@
 import sys
 
 preco_cenoura = 4.5
+preco_acucar = 6
+preco_ovos = 12
 preco_oleo = 12
 preco_fermento = 15
 preco_leite = 5
-preco_acucar = 6
-preco_ovos = 12
 
 def soma_ingredientes(tem_cenoura,tem_acucar,tem_ovos,tem_oleo,tem_fermento,tem_leite):
     total_compra = 0
@@ -34,3 +34,4 @@ if __name__ == "__main__":
     total = soma_ingredientes(terminal_tem_cenoura, terminal_tem_acucar, terminal_tem_ovos, terminal_tem_oleo, terminal_tem_fermento, terminal_tem_leite)
 
     print("Total dos ingredientes: R$ ",total)
+
