@@ -1,4 +1,6 @@
-o que são dados: um conjunto de  valores/atributos ligados a alguma coisa
+o que são dados?
+um conjunto de  valores/atributos ligados a alguma coisa
+um conjunto de  valores brutos atribuídos a algo 
 
 existem dois tipos básicos de dados:
 
