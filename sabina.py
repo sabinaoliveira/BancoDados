@@ -1,1 +1,1 @@
-print["Sabina!"]
+print("Sabina!")
