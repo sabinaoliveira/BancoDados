@@ -22,6 +22,10 @@ def determinar_geracao(idade):
   else:
     return "Outra geração"
 
+  dados["GERACAO"] = dados["IDADE"].apply(determinar_geracao)
+
+  dados["GERACAO"].value_counts()
+
   
 
 
