@@ -6,7 +6,7 @@ def preencher_nivel(gestor,nivel):
   else:
     return nivel
 
-dados.apply(lambda x: preencher_nivel())
+dados["NOVO_NIVEL"] = dados.apply(lambda x: preencher_nivel(x["GESTOR"], x["NIVEL"]), axis=1)
 
 
 
