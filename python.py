@@ -34,4 +34,3 @@ if __name__ == "__main__":
     total = soma_ingredientes(terminal_tem_cenoura, terminal_tem_acucar, terminal_tem_ovos, terminal_tem_oleo, terminal_tem_fermento, terminal_tem_leite)
 
     print("Total dos ingredientes: R$ ",total)
-
