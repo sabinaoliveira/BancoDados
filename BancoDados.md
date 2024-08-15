@@ -20,10 +20,3 @@ exemplos de uso: Facebook, Twitter, jogos online e móveis
 como os bancos relacionais organizam os dados de maneira eficiente?
 
 através de estruturas tabulares, onde os dados são organizados em tabelas com linhas e colunas. cada tabela representa uma entidade (tipo de informação) e cada linha representa uma instância (registro) dessa entidade. as colunas representam os atributos (características) de cada entidade.
-
-
-
-
-
-
-

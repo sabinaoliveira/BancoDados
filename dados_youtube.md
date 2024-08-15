@@ -17,11 +17,4 @@ o que podemos fazer com esses dados e como são amazenados
 
 BANCO DE DADOS
 
-coelção organizada que permite a extração de informações 
-
-
-
-
-
-
-
+coelção organizada que permite a extração de informações
